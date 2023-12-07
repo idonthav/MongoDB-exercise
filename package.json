@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 2000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idonthav/MongoDB-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idonthav/MongoDB-exercise/issues"
+  },
+  "homepage": "https://github.com/idonthav/MongoDB-exercise#readme",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "mongoose": "^8.0.2"
+  }
+}
